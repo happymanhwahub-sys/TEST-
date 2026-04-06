@@ -1,0 +1,13 @@
+{
+  "Version": "5.2",
+  "Title": "UPDATE AVAILABLE",
+  "Subtitle": "New Version 2.0",
+  "Features": "Fixed Bugs,Enhanced Features",
+  "Description": "A mandatory new version is available with enhanced security, improved performance, and important fixes.",
+  "BtnLater": "LATER",
+  "BtnUpdate": "UPDATE",
+  "Url": "https://t.me/PureModXlink",
+  "ForceUpdate": true,
+  "Reminder": "2h",      
+  "BtnTimer": 0         
+}
